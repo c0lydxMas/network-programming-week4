@@ -1,0 +1,5 @@
+﻿  Server.cpp
+G:\Dev\network-programming\week 4\week4\Server\Server.cpp(94,27): warning C4101: 'sendBuff': unreferenced local variable
+G:\Dev\network-programming\week 4\week4\Server\Server.cpp(95,7): warning C4101: 'buffData': unreferenced local variable
+G:\Dev\network-programming\week 4\week4\Server\Server.cpp(93,6): warning C4101: 'ret': unreferenced local variable
+  Server.vcxproj -> G:\Dev\network-programming\week 4\week4\Debug\Server.exe
